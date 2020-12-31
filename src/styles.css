@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Russo+One&display=swap');
+.App {
+  text-align: center;
+  margin-left:-10px;
+  margin-right:-80px;
+  margin-top:-50px;
+  margin-bottom:-30px;
+}
+
+section {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: 'Lilita One', cursive;
+  font-family: 'Russo One', sans-serif; 
+}
+p{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:bold;
+  font-size:20px;
+  color:rgb(240, 158, 8);
+}
+.bike {
+  /* border-style: ridge;
+  border-width: 2px; */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  text-align: center;
+  text-justify: newspaper;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  padding: 50px;
+}
+.button_type{
+  margin: 5px;
+  border-radius:15px;
+  padding:7px;
+  color:rgb(3, 1, 17);
+  background-color: rgb(29, 216, 191);
+  font-weight:bold;
+  font-size:15px;
+  width:100px;
+}
+.button_search{
+  margin: 5px;
+  color:white; 
+  width:100px;
+  height:25px;
+  background-color: red;
+  font-weight:bold;
+  font-size:18px;
+}
+input{
+  background-color: rgba(120, 203, 206, 0.493);
+  color:rgb(236, 240, 233);
+  font-weight:bold;
+  font-size:20px;
+  backface-visibility: none;
+  height:25px;
+}
+img {
+  width: 300px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-family: 'Russo One', sans-serif;
+  font-size:60px;
+  color:red;
+}
+h2{
+  color:greenyellow;
+  font-size:35px;
+}
+h3 {
+  font-family: 'Russo One', sans-serif;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  color:rgb(98, 190, 233);
+}
